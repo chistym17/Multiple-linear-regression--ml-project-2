@@ -1,0 +1,6 @@
+ Feature  Coefficient
+0                     Hours Studied     2.838228
+1                   Previous Scores     1.016684
+2        Extracurricular Activities     0.206248
+3                       Sleep Hours     0.440044
+4  Sample Question Papers Practiced     0.179761
